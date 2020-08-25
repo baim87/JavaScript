@@ -1,1 +1,1 @@
-# Kalkulator-umur-anjing.js
+Kumpulan function JavaScript
